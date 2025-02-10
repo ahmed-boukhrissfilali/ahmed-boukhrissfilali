@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-
 </div>
 
 ###
@@ -19,12 +18,12 @@
 
 ###
 
-<p align="left">I'm ahmed  from morocco<br><br>    🔭 I work as a software developer at amsx, where I primarily focus on web and mobile application development.<br><br>    📚 Currently, I'm learning new technologies to enhance my development skills. I'm diving into learning Symfony to build robust and scalable web applications.<br><br>    ⚡ In my free time, I enjoy tackling complex programming problems and contributing to open-source projects. I'm also passionate about creating personal projects, whether it's web applications, games, or tools, to apply and reinforce what I'm learning.</p>
+<p align="left">I'm ahmed from Morroco<br><br>    🔭 I work as a software developer at Octobot, where I primarily focus on web and mobile application development.<br><br>    📚 Currently, I'm learning new technologies to enhance my development skills. I'm diving into learning Vuejs , laravel , angular to build robust and scalable web applications.<br><br>    ⚡ In my free time, I enjoy tackling complex programming problems and contributing to open-source projects. I'm also passionate about creating personal projects, whether it's web applications, games, or tools, to apply and reinforce what I'm learning.</p>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ahmed-boukhrissfilali/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/[your-username]/count.svg?"  />
 </div>
 
 ###
@@ -48,15 +47,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
   <img width="12" />
@@ -64,7 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -78,7 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -90,9 +83,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -116,25 +107,16 @@
 ###
 
 <div align="left">
-  <a href="@sydek_ahmed" target="_blank">
+  <a href="@sidek_ahmed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="M.ahmedboukhrissfilali@hotmail.com" target="_blank">
+  <a href="mailto:your_email@example.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
   </a>
-  <a href="https://codepen.io/ahmedboukhrissfilali" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-  <a href="@ahmedbkf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-boukhriss-filali/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-boukhrissfilali/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="M.ahmedboukhrissfilali@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="filaliboukhrissahmed@gmail.com" target="_blank">
+  <a href="mailto:your_email@example.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -142,10 +124,11 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <img src="https://streak-stats.demolab.com?user=ahmed-boukhrissfilali&locale=en&mode=monthly&theme=gruvbox&hide_border=false&border_radius=5&order=2" height="220" alt="streak graph"  />
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-boukhrissfilali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
