@@ -1,132 +1,134 @@
+<!-- Header Section -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="animated gif" />
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmed%20Boukhriss%20Filali&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20|%20Passionné%20de%20Technologie&descAlignY=51&descAlign=62"/>
 </div>
 
-###
-
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Ahmed+%F0%9F%91%8B;Développeur+Full-Stack;Passionné+par+l'Innovation;Toujours+en+apprentissage+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-###
-
-<h1 align="left">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ahmed from Morroco<br><br>    🔭 I work as a software developer at Octobot, where I primarily focus on web and mobile application development.<br><br>    📚 Currently, I'm learning new technologies to enhance my development skills. I'm diving into learning Vuejs , laravel , angular to build robust and scalable web applications.<br><br>    ⚡ In my free time, I enjoy tackling complex programming problems and contributing to open-source projects. I'm also passionate about creating personal projects, whether it's web applications, games, or tools, to apply and reinforce what I'm learning.</p>
-
-###
-
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/[your-username]/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=ahmed-boukhrissfilali&label=Visiteurs+du+profil&color=0e75b6&style=flat" alt="ahmed-boukhrissfilali" />
 </div>
 
-###
+<br>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-boukhrissfilali&locale=en&mode=monthly&theme=gruvbox&hide_border=false&border_radius=5&order=2" height="250" alt="streak graph"  />
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 </div>
 
-###
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> À Propos de Moi
 
-<p align="center" style="margin:30px">
-  <a href="@sidek_ahmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  </a>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
+🌟 **Développeur Full-Stack** basé au **Maroc** 🇲🇦
+
+🏢 **Développeur chez Octobot** - Spécialisé dans le développement web et mobile
+
+🎯 **Mission** : Créer des applications web robustes et évolutives
+
+🌱 **Actuellement en apprentissage** : Vue.js, Laravel, Angular
+
+💡 **Passion** : Résolution de problèmes complexes et contribution à l'open-source
+
+🚀 **Objectif** : Maîtriser les dernières technologies et créer des solutions innovantes
+
+📧 **Contact** : ahmed.boukhrissfilali@example.com
+
+<br clear="both">
+
+<!-- Social Media Links -->
+<div align="center">
+  <h3>🌐 Connectons-nous</h3>
   <a href="https://www.linkedin.com/in/ahmed-boukhrissfilali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:ahmed.boukhrissfilali@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/sidek_ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/ahmed-boukhrissfilali" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 
+<!-- Tech Stack Section -->
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-boukhrissfilali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-boukhrissfilali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h2>🛠️ Technologies & Outils</h2>
+  <p>Voici les technologies avec lesquelles j'aime travailler :</p>
 </div>
 
-###
+### 💻 Langages de Programmation
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,cs,c,html,css" alt="Programming Languages"/>
+</div>
+
+### 🚀 Frameworks & Bibliothèques
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,laravel,angular,django,bootstrap,jquery" alt="Frameworks"/>
+</div>
+
+### 🗄️ Bases de Données
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
+</div>
+
+### 🔧 Outils & Plateformes
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux,wordpress" alt="Tools"/>
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=apache" alt="Cloud & DevOps"/>
+</div>
+
+<br>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>📊 Mes Statistiques GitHub</h2>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmed-boukhrissfilali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-boukhrissfilali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-boukhrissfilali&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-boukhrissfilali&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <h3>🏆 Mes Trophées GitHub</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-boukhrissfilali&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <h3>💫 "La programmation n'est pas une science, c'est un art." 💫</h3>
+  <p><i>Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter.</i></p>
+</div>
